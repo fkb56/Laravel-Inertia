@@ -12,6 +12,4 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
-composer.lock
-yarn.lock
 package-lock.json
